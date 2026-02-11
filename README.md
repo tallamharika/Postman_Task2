@@ -49,12 +49,11 @@ The goal is to validate API functionality and document the test execution result
 In this project, RESTful APIs were successfully tested using Postman for both authentication and data retrieval functionalities. The Login API verified that authentication tokens are generated correctly, while the Get Users API confirmed that user data can be retrieved as expected. All test cases passed, and the results were documented in a clear and organized test execution report. The Postman collection and report provide a complete and professional demonstration of API testing, ensuring the project meets CODTECH’s Task-2 requirements.
 
 
-## Output windows
+## Output Screenshots
 
-# POST request
-<img width="915" height="774" alt="Image" src="C:\Users\lenovo\OneDrive\Desktop\PostMan_Task2\post1.png" />
+### GET Request
+![GET Request](get1.png)
 
+### POST Request
+![POST Request](post1.png)
 
-
-# GET request
-<img width="936" height="872" alt="Image" src="https://github.com/tallamharika/Postman_Task2/blob/main/post1.png"/>
