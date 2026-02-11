@@ -1,0 +1,47 @@
+TEST EXECUTION REPORT
+
+Company: CODTECH IT SOLUTIONS
+Intern Name: TALLAM HARIKA
+Intern ID: CTIS5321
+Task: API Testing with Postman (Task-2)
+
+Tool Used: Postman
+API Type: RESTful API
+
+--------------------------------
+Test Case 1: Authentication API
+--------------------------------
+Method: POST
+Endpoint: https://fakestoreapi.com/auth/login
+
+Test Steps:
+1. Sent POST request with valid username and password
+2. Verified authentication token in response
+
+Expected Result:
+Authentication token should be generated
+
+Actual Result:
+Token received successfully
+
+Status:
+PASS
+
+--------------------------------
+Test Case 2: Data Retrieval API
+--------------------------------
+Method: GET
+Endpoint: https://fakestoreapi.com/products
+
+Test Steps:
+1. Sent GET request
+2. Verified product data in response
+
+Expected Result:
+Product list should be retrieved
+
+Actual Result:
+Products retrieved successfully
+
+Status:
+PASS
