@@ -57,3 +57,9 @@ In this project, RESTful APIs were successfully tested using Postman for both au
 ### POST Request
 ![POST Request](post1.png)
 
+"What I Learned”
+• Writing automated API test scripts using Postman
+• Validating authentication tokens
+• Executing collections using Postman Runner
+• Performing positive and negative API testing
+
